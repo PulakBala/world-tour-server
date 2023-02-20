@@ -1,0 +1,62 @@
+[
+    {
+    "id":1,
+    "title": "Rajasthan",
+    "url": "https://www.tourmyindia.com/imgnew/tranding-img.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+    },
+    {
+
+    "id":2,
+    "title": "Himachal",
+    "url": "https://www.tourmyindia.com/imgnew/Himanchal.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+    },
+    {
+
+    "id":3,
+    "title": "Kashmir",
+    "url": "https://www.tourmyindia.com/imgnew/kashmir0.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+
+    "id":4,
+    "title": "UttaraKhand",
+    "url": "https://www.tourmyindia.com/imgnew/uttrakhand.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+    },
+    {
+
+    "id":5,
+    "title": "Sikkim",
+    "url": "https://www.tourmyindia.com/imgnew/sikkim0.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    },
+    {
+
+    "id":6,
+    "title": "Kerla",
+    "url": "https://www.tourmyindia.com/imgnew/kerla.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+    },
+    {
+    "id":7,
+    "title": "Ladakh",
+    "url": "https://www.tourmyindia.com/imgnew/ladakh0.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+    },
+    {
+  
+    "id":8,
+    "title": "Tamilnadu",
+    "url": "https://www.tourmyindia.com/imgnew/tamilnadu.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+    },
+    {
+    "id":9,
+    "title": "Arunachal",
+    "url": "https://www.tourmyindia.com/imgnew/arunachal.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+    }
+]  

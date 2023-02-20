@@ -1,0 +1,62 @@
+[
+    {
+    "id":1,
+    "title": "Lucerne",
+    "url": "https://viatravelers.com/wp-content/uploads/2022/03/Lucerne-Switzerland-720x540.jpg.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+    },
+    {
+
+    "id":2,
+    "title": "Grindelwald",
+    "url": "https://viatravelers.com/wp-content/uploads/2022/03/Grindelwald-Switzerland-720x540.jpg.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+    },
+    {
+
+    "id":3,
+    "title": "Lauterbrunnen",
+    "url": "https://viatravelers.com/wp-content/uploads/2022/03/Lauterbrunnen-Schweiz-735x521.jpg.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+
+    "id":4,
+    "title": "Zurich",
+    "url": "https://viatravelers.com/wp-content/uploads/2022/03/Zurich-Switzerland-735x489.jpg.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+    },
+    {
+
+    "id":5,
+    "title": "Interlaken",
+    "url": "https://viatravelers.com/wp-content/uploads/2022/03/Interlaken-Switzerland-735x490.jpg.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    },
+    {
+
+    "id":6,
+    "title": "St. Moritz",
+    "url": "https://viatravelers.com/wp-content/uploads/2022/03/St.-Moritz-Switzerland-735x490.jpg.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+    },
+    {
+    "id":7,
+    "title": "Zermatt",
+    "url": "https://viatravelers.com/wp-content/uploads/2022/03/Zermatt-Switzerland-720x540.jpg.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+    },
+    {
+  
+    "id":8,
+    "title": "Lake Constance",
+    "url": "https://viatravelers.com/wp-content/uploads/2022/03/Lake-Constance-1-735x459.jpg.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+    },
+    {
+    "id":9,
+    "title": "The Matterhorn",
+    "url": "https://viatravelers.com/wp-content/uploads/2022/03/Matterhorn-735x490.jpg.webp",
+    "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+    }
+]  
