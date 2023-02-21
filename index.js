@@ -51,6 +51,12 @@ app.get('/switzerland', (req, res) =>{
     res.send(switzerland);
 })
 
+app.get('/switzerland/:id',(req, res) =>{
+    const id = req.params.id;
+    const switzerlandNews = switzerland.find(sw =>sw.id == id);
+    res.send(switzerlandNews);
+})
+
 app.listen(port, () =>{
 console.log(`Tour argentina running on port, ${port}`);
 })
